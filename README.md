@@ -1,1 +1,1 @@
-This is a repository for working at TMOGI-project.
+This is a repository for working at TMOGI-labs.
